@@ -1,8 +1,8 @@
-# Extract-key-evaluation-factors-for-good-vs-bad-hotels
-Use topic modeling and hotel reviews to determine most important criteria for hotel customers
+# Determine-Hotels-most-important-evaluation-factors
+Use topic modeling applied to very large amount of hotel reviews to determine key evaluation criteria of hotel customers
 
 
-In this project, over 1.5 millions hotel reviews are analyzed to identify the most important criteria for good hotels vs. bad hotels.
+In this project, over 1.5 millions hotel reviews are analyzed to identify the most important criteria determining good hotels vs. bad hotels.
 
 Latent Dirichlet Allocation is used to identify general topics covered in the reviews. I then use these categories to identify the key differencies between good and bad hotels.
 LDA is an unsupervised machine learning technique which I cover in details in a previous project [here]().
