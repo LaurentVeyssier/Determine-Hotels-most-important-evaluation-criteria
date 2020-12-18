@@ -1,4 +1,4 @@
-# Determine-Hotels-most-important-evaluation-factors
+# Determine-Hotels-most-important-evaluation-criteria
 Use topic modeling applied to very large amount of hotel reviews to determine key evaluation criteria of hotel customers
 
 
